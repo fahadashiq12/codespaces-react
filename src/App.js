@@ -11,6 +11,9 @@ function App() {
         <p>
           GitHub Codespaces for Changes outside <span className="heart">♥️</span> React
         </p>
+        <p>
+          GitHub Codespaces for Changes outside <span className="heart">♥️</span> React
+        </p>
         <p className="small">
           Edit <code>src/App.js</code> and save to reload.
         </p>
